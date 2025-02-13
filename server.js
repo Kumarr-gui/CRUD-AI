@@ -11,7 +11,7 @@ import 'dotenv/config';
 
 import { GenerativeModel, GoogleGenerativeAI } from '@google/generative-ai';
 
-const genAI = new GoogleGenerativeAI("AIzaSyDazZ_tVWqb2UJfDy-lBfSyYEAZp9x3EOY");
+const genAI = new GoogleGenerativeAI(process.env.API_KEY);
 const model = genAI.getGenerativeModel({model: "gemini-2.0-flash"});
 
 
@@ -116,7 +116,7 @@ app.get('/summary/:id', async (req,res) =>{
             if(!fileContent){
                 return res.status(404).send('File is empty');
             }
-            const prompt = `Analyze the given text and give summarize within 50 words  and key insights in 10 points of  the following:\n ${fileContent}`;
+            const prompt = `Analyze the given text and give summarize within 50 words  and key insights in 10 points of  the following:\n ${fileContent} and only show text in console and hide other keywords`;
             const geminiResponse = await model.generateContent([prompt]);
 
             console.log('Gemini AI Response:',JSON.stringify(geminiResponse,null,2));
