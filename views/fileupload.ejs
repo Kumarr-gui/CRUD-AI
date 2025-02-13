@@ -1,0 +1,38 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD with AI</title>
+</head>
+<body>
+    <h2>File Summary Provider</h2>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <input type="file" name="docFile" required>
+        <button type="submit">Upload</button>
+    </form>
+    </form>
+    <h2>Files</h2>
+    <table width="100%" border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>File Name</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <% file.forEach(file => { %>
+                <tr>
+                    <td><%= file.id %></td>
+                    <td style="text-align: center;"><%= file.filename %></td>
+                    <td>
+                        <a href="/update/<%= file.id %>"><button >Update</button></a>
+                        <a href="/delete/<%= file.id %>"><button>Delete</button></a>
+                        <a href="/summary/<%= file.id %>"><button>Summary</button></a>
+                    </td>
+                </tr>
+            <% }); %>
+        </tbody>
+    </table>
+</body>
+</html>
