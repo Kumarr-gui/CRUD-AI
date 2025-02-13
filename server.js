@@ -11,7 +11,7 @@ import 'dotenv/config';
 
 import { GenerativeModel, GoogleGenerativeAI } from '@google/generative-ai';
 
-const genAI = new GoogleGenerativeAI(process.env.API_KEY);
+const genAI = new GoogleGenerativeAI("AIzaSyDazZ_tVWqb2UJfDy-lBfSyYEAZp9x3EOY");
 const model = genAI.getGenerativeModel({model: "gemini-2.0-flash"});
 
 
@@ -96,39 +96,37 @@ app.get("/delete/:id",(req, res)=>{
     });
 });
 
-app.get('/summary/:id', async (req, res) =>{
+app.get('/summary/:id', async (req,res) =>{
     const id = req.params.id;
-    db.query('SELECT * FROM  uploadedFile  WHERE id =?',[id], async (err, result) =>{
+    //database query
+    db.query('SELECT * FROM uploadedFile WHERE id = ?',[id],async (err, result) =>{
         if(err){
             console.error('Error',err);
             return res.status(400).send('Something went wrong');
         }
-        if(result.length === 0){
-            return res.status(404).send('File Not Found');
+        if( result.length === 0){
+            return res.status(404).send('File not found');
         }
         const file = result[0];
         const filePath = path.resolve('./uploads',file.filename);
         try{
             const fileContent = fs.readFileSync(filePath,'utf-8');
-            const prompt = `Summarize the following content:\n ${fileContent}`;
 
-            // const geminiResult  = await model.generateContent({input:{prompt}});
-            const geminiResult = await model.generateContent({
-                input: { prompt }
-            });
-            // const geminiResult = await model.generateContent({ input: [{ prompt }] })
-            const summary = geminiResult.response.text;
-            console.log(geminiResult);
+            // condition for if the the file is empty
+            if(!fileContent){
+                return res.status(404).send('File is empty');
+            }
+            const prompt = `Analyze the given text and give summarize within 50 words  and key insights in 10 points of  the following:\n ${fileContent}`;
+            const geminiResponse = await model.generateContent([prompt]);
 
-            return res.render('summary',{file, summary});
-        } catch(error){
-            console.error('Error while generating summary:', error);
-            return res.status(500).send('Error while processing the summary');
+            console.log('Gemini AI Response:',JSON.stringify(geminiResponse,null,2));
+        }catch(error){
+            console.error('Error while generating summary',error);
+            return res.status(500).send('Error while generating summary')
         }
+
     })
-
 })
-
 
 //server listening
 app.listen(process.env.PORT, () => {

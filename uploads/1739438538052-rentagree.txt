@@ -1,0 +1,59 @@
+This Rent Agreement is made and entered into on this [Date] by and between:
+
+Landlord:
+Name: Ankit
+Address: New Delhi
+Phone Number: 9898989898
+
+Tenant:
+Name: Kunal
+Address: Noida
+Phone Number: 8888888888
+
+Premises:
+Address: Noida
+Description of the Premises: [Brief description of the property, e.g., 2-bedroom apartment, etc.]
+
+TERM OF AGREEMENT:
+
+The Landlord agrees to rent the Premises to the Tenant for a term of [Lease Term] months, commencing from [Start Date] and ending on [End Date].
+This agreement will automatically renew for successive terms of [Renewal Period], unless terminated by either party with a written notice of [Notice Period] days.
+RENT:
+
+The Tenant agrees to pay the Landlord a monthly rent of [Rent Amount] INR/USD (or applicable currency) on the [Due Date] of each month.
+Rent shall be paid via [Payment Method] to the Landlord's account number: [Account Number or Details].
+If the Tenant fails to pay rent within [Late Payment Period], a late fee of [Late Fee Amount] shall be charged.
+SECURITY DEPOSIT:
+
+The Tenant agrees to pay a security deposit of [Deposit Amount] to the Landlord, which will be refunded at the end of the lease term, subject to the condition of the premises.
+The security deposit will be used to cover damages to the property or unpaid rent, if applicable.
+USE OF PREMISES:
+
+The Tenant shall use the Premises only for residential purposes and shall not sublet or assign the Premises without prior written consent from the Landlord.
+The Tenant agrees to maintain the Premises in a clean and sanitary condition.
+MAINTENANCE AND REPAIRS:
+
+The Landlord shall be responsible for major repairs and maintenance, while the Tenant shall be responsible for minor repairs and upkeep.
+The Tenant must promptly notify the Landlord of any needed repairs.
+UTILITIES:
+
+The Tenant is responsible for paying utilities, including but not limited to water, electricity, gas, and internet services, unless otherwise agreed upon in writing.
+TERMINATION OF AGREEMENT:
+
+Either party may terminate this agreement by providing written notice of [Notice Period] days.
+Upon termination, the Tenant agrees to vacate the Premises and return the keys to the Landlord.
+GOVERNING LAW:
+
+This agreement shall be governed by the laws of [Jurisdiction] and any disputes shall be resolved in the courts of [Location].
+SIGNATURES: IN WITNESS WHEREOF, the parties hereto have executed this Rent Agreement as of the date first above written.
+
+Landlord:
+Signature: ___________________________
+Name: [Landlord's Name]
+Date: _______________________________
+
+Tenant:
+Signature: ___________________________
+Name: [Tenant's Name]
+Date: _______________________________
+

@@ -1,0 +1,1234 @@
+[
+    {
+        "id": 1,
+        "start": 0,
+        "end": 5472,
+        "speaker": "Speaker 0",
+        "text": "Hello, Good Afternoon, I am from L&T Realty."
+    },
+    {
+        "id": 2,
+        "start": 5544,
+        "end": 6516,
+        "speaker": "Speaker 0",
+        "text": "I got a missed call from this number."
+    },
+    {
+        "id": 3,
+        "start": 6588,
+        "end": 7074,
+        "speaker": "Speaker 0",
+        "text": "How can I help you?"
+    },
+    {
+        "id": 4,
+        "start": 8154,
+        "end": 9378,
+        "speaker": "Speaker 1",
+        "text": "Par yeh Sewri ka project janna tha."
+    },
+    {
+        "id": 5,
+        "start": 9900,
+        "end": 11340,
+        "speaker": "Speaker 1",
+        "text": "Kya rate hai?"
+    },
+    {
+        "id": 6,
+        "start": 11376,
+        "end": 15948,
+        "speaker": "Speaker 0",
+        "text": "Sewri me sir, humara 4-5 chakar ke land parcel mein tower bana rahe hain."
+    },
+    {
+        "id": 7,
+        "start": 16001,
+        "end": 16848,
+        "speaker": "Speaker 0",
+        "text": "Luxurious project hai sir."
+    },
+    {
+        "id": 8,
+        "start": 17226,
+        "end": 23292,
+        "speaker": "Speaker 0",
+        "text": "Isme hum 3 BHK, 4 BHK, 4.5 BHK offer kar rahe hain."
+    },
+    {
+        "id": 9,
+        "start": 23310,
+        "end": 25470,
+        "speaker": "Speaker 0",
+        "text": "1250 se leke 2250 raka carpet range hai."
+    },
+    {
+        "id": 10,
+        "start": 27288,
+        "end": 32202,
+        "speaker": "Speaker 0",
+        "text": "Isme humko 3 BHK, 4 BHK, 4.5 BHK mil jayega."
+    },
+    {
+        "id": 11,
+        "start": 32940,
+        "end": 36090,
+        "speaker": "Speaker 0",
+        "text": "Pricing range humara jo hai 5.9 CR se 11.5 CR tak hai sir."
+    },
+    {
+        "id": 12,
+        "start": 36864,
+        "end": 37296,
+        "speaker": "Speaker 0",
+        "text": "All inclusive."
+    },
+    {
+        "id": 13,
+        "start": 38844,
+        "end": 39816,
+        "speaker": "Speaker 1",
+        "text": "Sewri yeh kya?"
+    },
+    {
+        "id": 14,
+        "start": 40104,
+        "end": 41976,
+        "speaker": "Speaker 1",
+        "text": "South Mumbai mein bana raha ho project hai?"
+    },
+    {
+        "id": 15,
+        "start": 42012,
+        "end": 43884,
+        "speaker": "Speaker 0",
+        "text": "Sir, yeh kaisa extreme luxurious development hai sir."
+    },
+    {
+        "id": 16,
+        "start": 43974,
+        "end": 47268,
+        "speaker": "Speaker 0",
+        "text": "Yeh development ke baare mein aap aur details logar aapko bata chalega sir."
+    },
+    {
+        "id": 17,
+        "start": 47376,
+        "end": 49644,
+        "speaker": "Speaker 0",
+        "text": "Yeh pricing jo hai, retail ke liye to phone kiya hai maine bhai."
+    },
+    {
+        "id": 18,
+        "start": 49932,
+        "end": 50904,
+        "speaker": "Speaker 1",
+        "text": "Haan, so kaisa raha hai sir?"
+    },
+    {
+        "id": 19,
+        "start": 50958,
+        "end": 51498,
+        "speaker": "Speaker 1",
+        "text": "Abhi reh raha hai."
+    },
+    {
+        "id": 20,
+        "start": 51534,
+        "end": 54450,
+        "speaker": "Speaker 0",
+        "text": "Hai to Sewri mein na, dekho bhai, dekho bridge bade ban gaye hai."
+    },
+    {
+        "id": 21,
+        "start": 55116,
+        "end": 61254,
+        "speaker": "Speaker 1",
+        "text": "Hai to Sewri mein na."
+    },
+    {
+        "id": 22,
+        "start": 61326,
+        "end": 65087,
+        "speaker": "Speaker 0",
+        "text": "Right sir, but kaisa hai, location bhi develop ho rahe hai, time lagta hai."
+    },
+    {
+        "id": 23,
+        "start": 65123,
+        "end": 70020,
+        "speaker": "Speaker 0",
+        "text": "Abhi yeh project hain, saath saath sir, waha pe bahut saare developments saath nahi chal rahe hain."
+    },
+    {
+        "id": 24,
+        "start": 70704,
+        "end": 78552,
+        "speaker": "Speaker 0",
+        "text": "To wo jab yeh position milega raha hai project ka, to Sewri ka waterfront development hai na, poora waha pe sir, develop ho raha hai."
+    },
+    {
+        "id": 25,
+        "start": 78660,
+        "end": 80676,
+        "speaker": "Speaker 0",
+        "text": "Waha poora area develop ho raha hai, waha poora locality develop ho raha hai."
+    },
+    {
+        "id": 26,
+        "start": 81342,
+        "end": 81504,
+        "speaker": "Speaker 0",
+        "text": "Okay."
+    },
+    {
+        "id": 27,
+        "start": 81918,
+        "end": 84168,
+        "speaker": "Speaker 0",
+        "text": "So, wo sir, bahut hi popular location hona vala hai."
+    },
+    {
+        "id": 28,
+        "start": 86310,
+        "end": 86490,
+        "speaker": "Speaker 1",
+        "text": "Haan."
+    },
+    {
+        "id": 29,
+        "start": 86544,
+        "end": 89892,
+        "speaker": "Speaker 0",
+        "text": "Wo poore, matlab locality ka hi overview sir, hum aapko presentation de sakte hain."
+    },
+    {
+        "id": 30,
+        "start": 89946,
+        "end": 92376,
+        "speaker": "Speaker 0",
+        "text": "Humara sales office ka opening hai yeh, Sunday ko."
+    },
+    {
+        "id": 31,
+        "start": 93258,
+        "end": 93348,
+        "speaker": "Speaker 0",
+        "text": "Kal?"
+    },
+    {
+        "id": 32,
+        "start": 94248,
+        "end": 95598,
+        "speaker": "Speaker 0",
+        "text": "Aur yeh Sunday ko?"
+    },
+    {
+        "id": 33,
+        "start": 96750,
+        "end": 98370,
+        "speaker": "Speaker 1",
+        "text": "Sunday ko matlab."
+    },
+    {
+        "id": 34,
+        "start": 101448,
+        "end": 102852,
+        "speaker": "Speaker 0",
+        "text": "25th ko, matlab aur barso."
+    },
+    {
+        "id": 35,
+        "start": 103950,
+        "end": 106614,
+        "speaker": "Speaker 0",
+        "text": "So, tabhi hum show flats matlab open kar rahe hain humare."
+    },
+    {
+        "id": 36,
+        "start": 106650,
+        "end": 109476,
+        "speaker": "Speaker 0",
+        "text": "Rehraa ke rodi nahi hua humare, Sunday ko humara sales office ka opening hai."
+    },
+    {
+        "id": 37,
+        "start": 109908,
+        "end": 113310,
+        "speaker": "Speaker 0",
+        "text": "So, tabhi hum saari details dene wale hai future development, jo aaj bhaju ka development hai."
+    },
+    {
+        "id": 38,
+        "start": 113922,
+        "end": 125658,
+        "speaker": "Speaker 0",
+        "text": "Usme aapko saare, matlab basically poora idea mil jayega aapke project ke baare me bhi, plus aaj bhaju ke locality ke baare me bhi, ki future me ek aisa rehne wala hai yeh project."
+    },
+    {
+        "id": 39,
+        "start": 126054,
+        "end": 126774,
+        "speaker": "Speaker 0",
+        "text": "Abhi launch waha hai."
+    },
+    {
+        "id": 40,
+        "start": 126810,
+        "end": 130824,
+        "speaker": "Speaker 0",
+        "text": "So, matlab position is ka, hum mali jai sir, 3 to 4 saal ka position timeline mein sir."
+    },
+    {
+        "id": 41,
+        "start": 130860,
+        "end": 132372,
+        "speaker": "Speaker 1",
+        "text": "Acha, acha."
+    },
+    {
+        "id": 42,
+        "start": 132552,
+        "end": 135072,
+        "speaker": "Speaker 0",
+        "text": "Aur 4BHK kitne ka hai?"
+    },
+    {
+        "id": 43,
+        "start": 136098,
+        "end": 137466,
+        "speaker": "Speaker 0",
+        "text": "4BHK mein sir, humare paas 2 areas hai."
+    },
+    {
+        "id": 44,
+        "start": 137754,
+        "end": 139194,
+        "speaker": "Speaker 0",
+        "text": "Malayi ek 4BHK aur ek 4.5BHK hai."
+    },
+    {
+        "id": 45,
+        "start": 139212,
+        "end": 141480,
+        "speaker": "Speaker 0",
+        "text": "1950 area hai, aur 2250 area hai."
+    },
+    {
+        "id": 46,
+        "start": 141534,
+        "end": 145890,
+        "speaker": "Speaker 0",
+        "text": "Aur isme saari T-facing apartment hai sir."
+    },
+    {
+        "id": 47,
+        "start": 145908,
+        "end": 148266,
+        "speaker": "Speaker 1",
+        "text": "1950 ka kitne ka hai?"
+    },
+    {
+        "id": 48,
+        "start": 148374,
+        "end": 149220,
+        "speaker": "Speaker 0",
+        "text": "9.5CR onwards sir, all includes."
+    },
+    {
+        "id": 49,
+        "start": 149724,
+        "end": 150804,
+        "speaker": "Speaker 0",
+        "text": "Wo paapre."
+    },
+    {
+        "id": 50,
+        "start": 154368,
+        "end": 155736,
+        "speaker": "Speaker 0",
+        "text": "Yes sir."
+    },
+    {
+        "id": 51,
+        "start": 158598,
+        "end": 165402,
+        "speaker": "Speaker 0",
+        "text": "Aur yeh kaisa sir, ek kaafi low density project bhi hai, jaise Crescent bhi jo taamara usme around 1300-1400 apartments hai."
+    },
+    {
+        "id": 52,
+        "start": 165438,
+        "end": 166932,
+        "speaker": "Speaker 1",
+        "text": "Isme sir, sir 300 apartments hi hai."
+    },
+    {
+        "id": 53,
+        "start": 168066,
+        "end": 170910,
+        "speaker": "Speaker 0",
+        "text": "Per floor, matlab 4 apartments hai, aisa rehne wala hi hai."
+    },
+    {
+        "id": 54,
+        "start": 170946,
+        "end": 173304,
+        "speaker": "Speaker 0",
+        "text": "Kyuki density bhi kam rahega sir, aur land parcel bhi bada hai iska."
+    },
+    {
+        "id": 55,
+        "start": 173952,
+        "end": 177588,
+        "speaker": "Speaker 0",
+        "text": "To ek luxury project hai sir, isme zyada crowd bhi nahi hai."
+    },
+    {
+        "id": 56,
+        "start": 177606,
+        "end": 178704,
+        "speaker": "Speaker 0",
+        "text": "50 plus storey ka hi tower hai."
+    },
+    {
+        "id": 57,
+        "start": 178740,
+        "end": 186588,
+        "speaker": "Speaker 1",
+        "text": "To elevation bhi kumar mein sabse aayega."
+    },
+    {
+        "id": 58,
+        "start": 186840,
+        "end": 188964,
+        "speaker": "Speaker 0",
+        "text": "Aaye lekin 50-5000 ka bhaav, out Mumbai ka bhaav laga diya to."
+    },
+    {
+        "id": 59,
+        "start": 189990,
+        "end": 192384,
+        "speaker": "Speaker 0",
+        "text": "Sir, yeh location to sir, waha se bhi zyada develop ho raha hai."
+    },
+    {
+        "id": 60,
+        "start": 192546,
+        "end": 196884,
+        "speaker": "Speaker 0",
+        "text": "To hume to already developed location hai, yaha pe to sir aur bhi jagah hai development ke liye."
+    },
+    {
+        "id": 61,
+        "start": 196920,
+        "end": 199116,
+        "speaker": "Speaker 1",
+        "text": "Aur to hume to jagah bachi hi nahi hai development ke liye."
+    },
+    {
+        "id": 62,
+        "start": 199224,
+        "end": 206226,
+        "speaker": "Speaker 1",
+        "text": "To yeh area to aur... Jagah bachi nahi hai, jagah bachi nahi hai, lekin jagah bachi nahi hai, iski ke liye to usko itna bhaav hai na, matlab jagah hi nahi hai."
+    },
+    {
+        "id": 63,
+        "start": 206298,
+        "end": 212256,
+        "speaker": "Speaker 1",
+        "text": "Sir, abhi yaha pe bhi development bahut sir aa raha hai yaha pe."
+    },
+    {
+        "id": 64,
+        "start": 212778,
+        "end": 213714,
+        "speaker": "Speaker 1",
+        "text": "To supply bhi bahut aayega na."
+    },
+    {
+        "id": 65,
+        "start": 214470,
+        "end": 215946,
+        "speaker": "Speaker 1",
+        "text": "Wohi to bolta hu, supply bhi bahut aayega na."
+    },
+    {
+        "id": 66,
+        "start": 216648,
+        "end": 219006,
+        "speaker": "Speaker 0",
+        "text": "Dekho, bahut saar project aa raha hai, aapne kuch pura starting mein."
+    },
+    {
+        "id": 67,
+        "start": 219042,
+        "end": 221634,
+        "speaker": "Speaker 0",
+        "text": "To bahut saar project aa raha hai."
+    },
+    {
+        "id": 68,
+        "start": 221670,
+        "end": 223362,
+        "speaker": "Speaker 0",
+        "text": "Plus ke saar government project bhi hai waha pe."
+    },
+    {
+        "id": 69,
+        "start": 223434,
+        "end": 227610,
+        "speaker": "Speaker 0",
+        "text": "Mumbai Port Trust, aapne suna ho, project chal raha hai, jo Eastern Waterfront Development hai."
+    },
+    {
+        "id": 70,
+        "start": 228222,
+        "end": 231426,
+        "speaker": "Speaker 0",
+        "text": "Waha pe, matlab beach side mein hi port aa raha hai, amusement parks aa raha hai."
+    },
+    {
+        "id": 71,
+        "start": 231948,
+        "end": 233244,
+        "speaker": "Speaker 1",
+        "text": "Ek pura tourism spot ban raha hai, sir."
+    },
+    {
+        "id": 72,
+        "start": 235980,
+        "end": 236430,
+        "speaker": "Speaker 0",
+        "text": "Aur kya aa raha hai?"
+    },
+    {
+        "id": 73,
+        "start": 236466,
+        "end": 239526,
+        "speaker": "Speaker 0",
+        "text": "Yeh bahut hi bada project hai, uski wajah se appreciation yeh jagah ko bahut milne wala hai, sir."
+    },
+    {
+        "id": 74,
+        "start": 239562,
+        "end": 247518,
+        "speaker": "Speaker 0",
+        "text": "Appreciation to, appreciation to aapne already kar kiya hai na."
+    },
+    {
+        "id": 75,
+        "start": 248652,
+        "end": 251082,
+        "speaker": "Speaker 0",
+        "text": "Yeh to sir, waqab, pricing sir reasonable hai, sir."
+    },
+    {
+        "id": 76,
+        "start": 251946,
+        "end": 254790,
+        "speaker": "Speaker 0",
+        "text": "Ek baar, sunday ko ek baar."
+    },
+    {
+        "id": 77,
+        "start": 255024,
+        "end": 256680,
+        "speaker": "Speaker 0",
+        "text": "Payment terms kaisa hai?"
+    },
+    {
+        "id": 78,
+        "start": 256716,
+        "end": 258696,
+        "speaker": "Speaker 0",
+        "text": "Payment terms kaisa hai, sir, sunday ko hi khulegi hai."
+    },
+    {
+        "id": 79,
+        "start": 258839,
+        "end": 260676,
+        "speaker": "Speaker 0",
+        "text": "Basically to construction link payment hi rehta hai."
+    },
+    {
+        "id": 80,
+        "start": 261341,
+        "end": 262638,
+        "speaker": "Speaker 0",
+        "text": "Ek booking out lete hain, I'm certain."
+    },
+    {
+        "id": 81,
+        "start": 262764,
+        "end": 266922,
+        "speaker": "Speaker 0",
+        "text": "Uske baad, construction status ke saabse, partly payment raha hai till the position."
+    },
+    {
+        "id": 82,
+        "start": 267426,
+        "end": 272700,
+        "speaker": "Speaker 0",
+        "text": "But, kaisa hai ki launch ke time pe pata chalega, sir, aur bhi payment terms ho sakte hai, options mein."
+    },
+    {
+        "id": 83,
+        "start": 277308,
+        "end": 279000,
+        "speaker": "Speaker 0",
+        "text": "To, rehta hai, sir, subvention bhi ho sakta hai."
+    },
+    {
+        "id": 84,
+        "start": 279036,
+        "end": 281304,
+        "speaker": "Speaker 0",
+        "text": "Waha se BKC ke saab doodh lagta hai?"
+    },
+    {
+        "id": 85,
+        "start": 282456,
+        "end": 290016,
+        "speaker": "Speaker 0",
+        "text": "Yaha se to, sir, kaisa hai ki abhi, location, sir, kilometre wise to zyada hi rehga, sir."
+    },
+    {
+        "id": 86,
+        "start": 290592,
+        "end": 291222,
+        "speaker": "Speaker 0",
+        "text": "BKC, BKC?"
+    },
+    {
+        "id": 87,
+        "start": 293796,
+        "end": 298026,
+        "speaker": "Speaker 0",
+        "text": "To, yaha se, sir, kilometre wise bata ho to, sir, 10-12 kilometre hai to, 20-25 minutes lagta hai, sir."
+    },
+    {
+        "id": 88,
+        "start": 299448,
+        "end": 299682,
+        "speaker": "Speaker 0",
+        "text": "BKC?"
+    },
+    {
+        "id": 89,
+        "start": 299718,
+        "end": 303966,
+        "speaker": "Speaker 1",
+        "text": "Haan, 20-25 minutes lagta hai, maximum hai."
+    },
+    {
+        "id": 90,
+        "start": 307458,
+        "end": 307710,
+        "speaker": "Speaker 0",
+        "text": "Acha?"
+    },
+    {
+        "id": 91,
+        "start": 309168,
+        "end": 311688,
+        "speaker": "Speaker 1",
+        "text": "Lekin, BKC aur Atal Setu se jaa sakte hai kya?"
+    },
+    {
+        "id": 92,
+        "start": 313110,
+        "end": 315072,
+        "speaker": "Speaker 0",
+        "text": "No, sir, Atal Setu se to, aap Navi Mumbai side jaoge na."
+    },
+    {
+        "id": 93,
+        "start": 316782,
+        "end": 318222,
+        "speaker": "Speaker 0",
+        "text": "Haan, aur South Mumbai to BKC aa raha hai to?"
+    },
+    {
+        "id": 94,
+        "start": 318258,
+        "end": 326970,
+        "speaker": "Speaker 0",
+        "text": "Sir, aap se February mein ho, aap to aapko BKC jaana hai to, aapko to, matlab, road mein se hi jaana padega, sir."
+    },
+    {
+        "id": 95,
+        "start": 327060,
+        "end": 329202,
+        "speaker": "Speaker 0",
+        "text": "Directly matlab hai, internal roads hi hai."
+    },
+    {
+        "id": 96,
+        "start": 329994,
+        "end": 331470,
+        "speaker": "Speaker 0",
+        "text": "Acha hai, acha hai."
+    },
+    {
+        "id": 97,
+        "start": 331506,
+        "end": 338256,
+        "speaker": "Speaker 0",
+        "text": "Eastern Freeway hai, jaisa aapne, yaha se directly connected hai."
+    },
+    {
+        "id": 98,
+        "start": 338400,
+        "end": 340344,
+        "speaker": "Speaker 0",
+        "text": "Eastern Freeway se aap jaa sakte ho."
+    },
+    {
+        "id": 99,
+        "start": 340380,
+        "end": 343008,
+        "speaker": "Speaker 0",
+        "text": "Project ke dekha, aaj mojhe to, zupat patat ke wahi, kaisa saap?"
+    },
+    {
+        "id": 100,
+        "start": 345024,
+        "end": 347742,
+        "speaker": "Speaker 0",
+        "text": "Abhi to, land parcel liya hai, sir, aapne, aur L&T is known for infrastructure, sir."
+    },
+    {
+        "id": 101,
+        "start": 347850,
+        "end": 352908,
+        "speaker": "Speaker 0",
+        "text": "So, waha pe to, kaisa, development chalu hoga to, dheere dheere, aaj majoor area mein, developed hote rega, sir."
+    },
+    {
+        "id": 102,
+        "start": 352926,
+        "end": 353304,
+        "speaker": "Speaker 1",
+        "text": "3-4 saal hai, abhi."
+    },
+    {
+        "id": 103,
+        "start": 354726,
+        "end": 356742,
+        "speaker": "Speaker 1",
+        "text": "To, 3-4 saal mein, to, poora area developed hote rega."
+    },
+    {
+        "id": 104,
+        "start": 356778,
+        "end": 358758,
+        "speaker": "Speaker 1",
+        "text": "Abhi to, 3-4 saal mein, aapne, 50,000 ka to, bahut bol rahe ho."
+    },
+    {
+        "id": 105,
+        "start": 359334,
+        "end": 360810,
+        "speaker": "Speaker 0",
+        "text": "To, 3-4 saal mein, 50,000 ka, kitna hoga?"
+    },
+    {
+        "id": 106,
+        "start": 360828,
+        "end": 361278,
+        "speaker": "Speaker 0",
+        "text": "60 hoga?"
+    },
+    {
+        "id": 107,
+        "start": 361368,
+        "end": 362826,
+        "speaker": "Speaker 0",
+        "text": "Aur kya, wo area mein, kitna kaun dega?"
+    },
+    {
+        "id": 108,
+        "start": 364698,
+        "end": 373464,
+        "speaker": "Speaker 1",
+        "text": "Sir, dekhi ki, appreciation to aata hai, sir, kaisa hai ki, simply humare building ke waise nahi hai, waha pe aur bhi project aayenge."
+    },
+    {
+        "id": 109,
+        "start": 373950,
+        "end": 376776,
+        "speaker": "Speaker 1",
+        "text": "Developed hote rega location to, aur bhi bade bade development hote rehenge, sir."
+    },
+    {
+        "id": 110,
+        "start": 376812,
+        "end": 384570,
+        "speaker": "Speaker 1",
+        "text": "Arey, haan, lekin, starting price to kuch hota hai na, agar 20-25,000 ka bhaav hota hai, to, main wahan saal chalo, main kuch 4-5 saal mein, Sir, yeh location prakha hai, sir, aaj bhaju bhaju bhi nahi hai, sir, 20-25,000 ka rate."
+    },
+    {
+        "id": 111,
+        "start": 386064,
+        "end": 391230,
+        "speaker": "Speaker 1",
+        "text": "Main, example dera hu, agar appreciation ke liye, base to kuch hona chahiye, 50,000 ke kya appreciation main gununga?"
+    },
+    {
+        "id": 112,
+        "start": 391284,
+        "end": 408150,
+        "speaker": "Speaker 1",
+        "text": "Aap sochon na, 50,000 ka lakh to hone wala hai nahi, to, mera investment, agar mera investment ke liye le raha ho, mera paisa double karna hai, aapko simple question phulta ho, mera paisa double karna hai, kitna time lagega?"
+    },
+    {
+        "id": 113,
+        "start": 408186,
+        "end": 414306,
+        "speaker": "Speaker 0",
+        "text": "Sir, uske liye to, main aapko bhi range nahi de sakta, double, 100% appreciation milnega."
+    },
+    {
+        "id": 114,
+        "start": 414342,
+        "end": 415296,
+        "speaker": "Speaker 0",
+        "text": "Main to, investor hona aapka."
+    },
+    {
+        "id": 115,
+        "start": 415422,
+        "end": 419724,
+        "speaker": "Speaker 0",
+        "text": "Definitely, profit to milega hai aapko."
+    },
+    {
+        "id": 116,
+        "start": 419814,
+        "end": 426420,
+        "speaker": "Speaker 1",
+        "text": "But, main aacha, timeline bhi main pata nahi sakta, wo to aap bhi assume nahi kar sakta, ki aapko kitna time lagega double karne ko, ek property me dal ke."
+    },
+    {
+        "id": 117,
+        "start": 426474,
+        "end": 430848,
+        "speaker": "Speaker 1",
+        "text": "Arey, lekin, aap project deke baitha hai, to, aapko kuch to assumption hota hai na, bhai, main nahi kar sakta ho, marabar aapke baat."
+    },
+    {
+        "id": 118,
+        "start": 431316,
+        "end": 440712,
+        "speaker": "Speaker 1",
+        "text": "Aap to kar sakta hai, aapka to project hai, koi itna sara aapne jo rate decide kiya hai, usko bhi aapne socha hoga na, end user aayega, investor aayega, sab alag-alag level ko sab kuch de socha hoga na, aapne."
+    },
+    {
+        "id": 119,
+        "start": 442008,
+        "end": 444150,
+        "speaker": "Speaker 0",
+        "text": "To, you are the right person to tell."
+    },
+    {
+        "id": 120,
+        "start": 444618,
+        "end": 444978,
+        "speaker": "Speaker 0",
+        "text": "How can I tell?"
+    },
+    {
+        "id": 121,
+        "start": 445014,
+        "end": 451062,
+        "speaker": "Speaker 1",
+        "text": "Haan, jaise aapne duration socha sa, ki kitne saal me hoga ho, wo main koi idea, matlab."
+    },
+    {
+        "id": 122,
+        "start": 451098,
+        "end": 453078,
+        "speaker": "Speaker 1",
+        "text": "Haan, to, wo to hota hai na, generally."
+    },
+    {
+        "id": 123,
+        "start": 453114,
+        "end": 454230,
+        "speaker": "Speaker 1",
+        "text": "Wo to lot of idea hota hai na."
+    },
+    {
+        "id": 124,
+        "start": 454626,
+        "end": 455868,
+        "speaker": "Speaker 1",
+        "text": "Personal data compounding bhi, you know."
+    },
+    {
+        "id": 125,
+        "start": 456408,
+        "end": 462492,
+        "speaker": "Speaker 0",
+        "text": "To, samjhab, 20% appreciation hota hai, 30% appreciation hota hai, to, kya, matlab, kuch to aage ka roadmap hota hai na."
+    },
+    {
+        "id": 126,
+        "start": 462528,
+        "end": 466758,
+        "speaker": "Speaker 0",
+        "text": "Sir, exactly to aapko pata hai, sir, ye early bhi appreciation to 3-4% hi hota hai, koi bhi normal project to."
+    },
+    {
+        "id": 127,
+        "start": 466830,
+        "end": 475182,
+        "speaker": "Speaker 1",
+        "text": "To, 30% to koi bhi project to hi hota hai, sir, appreciation hi."
+    },
+    {
+        "id": 128,
+        "start": 475236,
+        "end": 477360,
+        "speaker": "Speaker 0",
+        "text": "To, matlab, 30% mein kitne time mein hoga hain, kuch to idea hota hai na."
+    },
+    {
+        "id": 129,
+        "start": 477396,
+        "end": 488268,
+        "speaker": "Speaker 0",
+        "text": "Ye, but, uske liye, uske liye, sir, aapko sahih-usmaraya, sir, zyada briefing bhi payenge."
+    },
+    {
+        "id": 130,
+        "start": 488304,
+        "end": 489528,
+        "speaker": "Speaker 1",
+        "text": "Maini baas to basic information hi hai."
+    },
+    {
+        "id": 131,
+        "start": 490788,
+        "end": 494640,
+        "speaker": "Speaker 0",
+        "text": "Agar aapko aur zyada in detail discussion karna hai, matlab, dekha aaja hai, ye time nekal ke."
+    },
+    {
+        "id": 132,
+        "start": 494730,
+        "end": 499788,
+        "speaker": "Speaker 0",
+        "text": "Kuch wo hai kya apna, kya bolte ho, commercial hai aapke baad?"
+    },
+    {
+        "id": 133,
+        "start": 499896,
+        "end": 501300,
+        "speaker": "Speaker 0",
+        "text": "Nahi sir, commercial nahi hai."
+    },
+    {
+        "id": 134,
+        "start": 501354,
+        "end": 501822,
+        "speaker": "Speaker 0",
+        "text": "Only reference?"
+    },
+    {
+        "id": 135,
+        "start": 502704,
+        "end": 502956,
+        "speaker": "Speaker 1",
+        "text": "Yes, sir."
+    },
+    {
+        "id": 136,
+        "start": 503838,
+        "end": 505656,
+        "speaker": "Speaker 1",
+        "text": "Aur do towers aane wala hai, na?"
+    },
+    {
+        "id": 137,
+        "start": 505692,
+        "end": 508572,
+        "speaker": "Speaker 0",
+        "text": "Haan, matlab, adjoining towers hai, sir, basically."
+    },
+    {
+        "id": 138,
+        "start": 509346,
+        "end": 512982,
+        "speaker": "Speaker 0",
+        "text": "Ye khali 2.5 acre hi hai na, usse jaada nahi hai?"
+    },
+    {
+        "id": 139,
+        "start": 513000,
+        "end": 520416,
+        "speaker": "Speaker 1",
+        "text": "4-5 acre ka pura development hai, sir, ye, tower ka area wo 2.5 acre."
+    },
+    {
+        "id": 140,
+        "start": 521352,
+        "end": 524285,
+        "speaker": "Speaker 0",
+        "text": "Acha, acha, acha, matlab, paaki ka aur bhi tower aane wala hai?"
+    },
+    {
+        "id": 141,
+        "start": 525024,
+        "end": 526338,
+        "speaker": "Speaker 0",
+        "text": "Nahi, nahi, waha pe redevelopment hai, sir."
+    },
+    {
+        "id": 142,
+        "start": 527922,
+        "end": 529362,
+        "speaker": "Speaker 0",
+        "text": "Matlab, sanjha nahi, kaunsa redevelopment hai?"
+    },
+    {
+        "id": 143,
+        "start": 529398,
+        "end": 538272,
+        "speaker": "Speaker 0",
+        "text": "Ye beach mein, sir, kya saa, jo pura area hai, 4.5 acres hai around, to uske beach mein garden bhi hai, reserve green area hai, basically."
+    },
+    {
+        "id": 144,
+        "start": 539172,
+        "end": 544932,
+        "speaker": "Speaker 0",
+        "text": "Wo separate karta hai, apne jo project hai, aur wo aake jo ek redevelopment ka tower rahega usko."
+    },
+    {
+        "id": 145,
+        "start": 545940,
+        "end": 546138,
+        "speaker": "Speaker 1",
+        "text": "Acha."
+    },
+    {
+        "id": 146,
+        "start": 548172,
+        "end": 554274,
+        "speaker": "Speaker 1",
+        "text": "To land parcel, basically, total development 4.5 acre hai, ye tower jo 2.5 acre."
+    },
+    {
+        "id": 147,
+        "start": 555534,
+        "end": 559386,
+        "speaker": "Speaker 1",
+        "text": "Acha, 2.5 acre tower hai, plus, usme greenery, usko include nahi kiya hai?"
+    },
+    {
+        "id": 148,
+        "start": 560448,
+        "end": 563274,
+        "speaker": "Speaker 0",
+        "text": "Nahi, include nahi kiya hai, sir."
+    },
+    {
+        "id": 149,
+        "start": 563706,
+        "end": 564300,
+        "speaker": "Speaker 1",
+        "text": "Acha, acha, acha."
+    },
+    {
+        "id": 150,
+        "start": 565938,
+        "end": 568350,
+        "speaker": "Speaker 0",
+        "text": "Wo 3bhk kitne ka hai?"
+    },
+    {
+        "id": 151,
+        "start": 568440,
+        "end": 574434,
+        "speaker": "Speaker 0",
+        "text": "3bhk to, sir, do areas hai, 1250 square feet hai, aur 1450 square feet hai."
+    },
+    {
+        "id": 152,
+        "start": 574488,
+        "end": 574542,
+        "speaker": "Speaker 1",
+        "text": "Hmm."
+    },
+    {
+        "id": 153,
+        "start": 574560,
+        "end": 579042,
+        "speaker": "Speaker 0",
+        "text": "1250 ke liye 5.9 cr quotation hai, currently, aur 1450 ke liye 7.2 cr hai, quotation, currently."
+    },
+    {
+        "id": 154,
+        "start": 579114,
+        "end": 580338,
+        "speaker": "Speaker 0",
+        "text": "Acha, acha."
+    },
+    {
+        "id": 155,
+        "start": 580500,
+        "end": 587610,
+        "speaker": "Speaker 0",
+        "text": "To iske negotiation kitna hone wala hai?"
+    },
+    {
+        "id": 156,
+        "start": 587700,
+        "end": 593478,
+        "speaker": "Speaker 1",
+        "text": "Sir, to best deals possible thing hai, sir, abhi launch rahega, to definitely apko best pricing hi milega, but figures to we cannot discuss on call, sir."
+    },
+    {
+        "id": 157,
+        "start": 593658,
+        "end": 595242,
+        "speaker": "Speaker 0",
+        "text": "That you'll have to speak with the closing manager."
+    },
+    {
+        "id": 158,
+        "start": 595278,
+        "end": 601074,
+        "speaker": "Speaker 0",
+        "text": "Theek hai, theek hai, theek hai."
+    },
+    {
+        "id": 159,
+        "start": 601146,
+        "end": 601272,
+        "speaker": "Speaker 0",
+        "text": "Yes, sir."
+    },
+    {
+        "id": 160,
+        "start": 601398,
+        "end": 601650,
+        "speaker": "Speaker 0",
+        "text": "Theek hai."
+    },
+    {
+        "id": 161,
+        "start": 601722,
+        "end": 604476,
+        "speaker": "Speaker 0",
+        "text": "To iske abhi presentation walega bheja sakte hai?"
+    },
+    {
+        "id": 162,
+        "start": 604620,
+        "end": 609606,
+        "speaker": "Speaker 0",
+        "text": "Abhi to, sir, presentation bhi ready nahi hai, brochure bhi abhi works mein hai."
+    },
+    {
+        "id": 163,
+        "start": 609660,
+        "end": 614034,
+        "speaker": "Speaker 0",
+        "text": "So, basically, saari information to abhi sales office pe milega, abhi Sunday ko jo opening rahega, wo bhi invite only hai."
+    },
+    {
+        "id": 164,
+        "start": 615798,
+        "end": 619578,
+        "speaker": "Speaker 0",
+        "text": "So, agar aapko, matlab, visit bhi karna hai to, I'll have to send you an invitation."
+    },
+    {
+        "id": 165,
+        "start": 621378,
+        "end": 623142,
+        "speaker": "Speaker 0",
+        "text": "So, basically, aapko prior confirmation dena padega."
+    },
+    {
+        "id": 166,
+        "start": 623862,
+        "end": 626544,
+        "speaker": "Speaker 0",
+        "text": "To mai aapko ek invitation bhejunga, then you can go, aapko QR code aayega."
+    },
+    {
+        "id": 167,
+        "start": 626580,
+        "end": 627930,
+        "speaker": "Speaker 0",
+        "text": "Acha."
+    },
+    {
+        "id": 168,
+        "start": 627966,
+        "end": 628884,
+        "speaker": "Speaker 0",
+        "text": "Wo wahape aapko dikhana hoga."
+    },
+    {
+        "id": 169,
+        "start": 634680,
+        "end": 635634,
+        "speaker": "Speaker 1",
+        "text": "Okay, okay, okay."
+    },
+    {
+        "id": 170,
+        "start": 635922,
+        "end": 637002,
+        "speaker": "Speaker 1",
+        "text": "Theek hai, theek hai."
+    },
+    {
+        "id": 171,
+        "start": 638172,
+        "end": 640260,
+        "speaker": "Speaker 1",
+        "text": "To karna hai aisa visit bhakara, to bata hi hai, more details ke liye."
+    },
+    {
+        "id": 172,
+        "start": 641772,
+        "end": 643356,
+        "speaker": "Speaker 0",
+        "text": "To mai aapko ek bhej dunga invitation, basically."
+    },
+    {
+        "id": 173,
+        "start": 643410,
+        "end": 645354,
+        "speaker": "Speaker 0",
+        "text": "Kal tak arrange ho jayega, to kal tak mai aapko bhej dunga."
+    },
+    {
+        "id": 174,
+        "start": 647496,
+        "end": 650808,
+        "speaker": "Speaker 1",
+        "text": "Sunday ka takkar to nahi hai, bhej ke rahega, to mai try karenga, agar hota hai to."
+    },
+    {
+        "id": 175,
+        "start": 651060,
+        "end": 653580,
+        "speaker": "Speaker 1",
+        "text": "Chalega, WhatsApp chod ke rakhta hai aapko mai ek, mera number aap save bhi dejiye."
+    },
+    {
+        "id": 176,
+        "start": 653616,
+        "end": 659268,
+        "speaker": "Speaker 1",
+        "text": "Agar aap meise Sunday ko plan hota hai, to mujhe priorly bata dejiye, kata hai, to kaisa phir ho QR code generate karein thoda."
+    }
+]

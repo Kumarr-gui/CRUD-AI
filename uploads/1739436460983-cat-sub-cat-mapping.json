@@ -1,0 +1,603 @@
+{
+    "Payment Related": [
+        "Interest Statement",
+        "Payment Modes",
+        "Ledger/Statement of Account",
+        "Payment Receipt Confirmation",
+        "Payment Schedule",
+        "Payment Acknowledgement",
+        "Input Tax Credit & Discount",
+        "Interest Dispute",
+        "TDS Variance Follow-Up",
+        "Form 26QB Corrections",
+        "Soft Copy of TDS Certificate Received",
+        "e-Tutorial for TDS Certificate (Form 16B)",
+        "e-Tutorial for TDS Payment (26QB)",
+        "Due date Extensions",
+        "TDS - Online Payment Clarifications",
+        "TDS Payment not reflecting",
+        "Original TDS certificates requested",
+        "TDS Payments",
+        "GST/Service tax/MVAT",
+        "Payment Follow up",
+        "Cheque Pick up",
+        "Advance Payments",
+        "Interest Follow up",
+        "Original TDS Certificates received",
+        "Interest Waiver",
+        "TDS Challan Received",
+        "Refund of Excess Payment",
+        "Tentative Milestones",
+        "Cheque Bounce Acknowledgement",
+        "Incorrect Payment Acknowledgement"
+    ],
+    "Registration Related": [
+        "Registration Feedback",
+        "Registration Follow-Up",
+        "POA Related",
+        "Registration Process",
+        "Registration Charges",
+        "Registration Scheduling",
+        "Revision in Agreement Value",
+        "Registration Reminder",
+        "Registration Re-scheduling",
+        "AFS Registration",
+        "Handover of original AFS/SD"
+    ],
+    "Project Information": [
+        "Site Visit",
+        "Parking Related",
+        "Possession Timeline",
+        "RERA Registration Number",
+        "Construction Milestones",
+        "Site Photographs",
+        "Possession",
+        "Floor Plan/Layout",
+        "Approvals"
+    ],
+    "Approvals Related": [
+        "Litigations",
+        "Occupancy Certificate",
+        "Commencement Certificate",
+        "Status of Legal Suit"
+    ],
+    "Possession": [
+        "Site Visit",
+        "Possession Reschedule",
+        "Possession Schedule",
+        "Parking allocation",
+        "Fit Out Possession",
+        "Request for Additional Car Park",
+        "Compensation for delayed delivery",
+        "Internal Amenities",
+        "External Amenities",
+        "Modification in Apartment",
+        "Drawings (CAD, Electric, Plumbing)",
+        "Process",
+        "Snag related"
+    ],
+    "Profile Updation": [
+        "Name Addition",
+        "Name Deletion",
+        "Contact Details Updation",
+        "Name Change",
+        "Death of Applicant"
+    ],
+    "Documents Related": [
+        "POA Related",
+        "Receipts",
+        "Allotment Letter",
+        "KYC Related",
+        "NOC",
+        "Society Documentation",
+        "RERA Approval Certificate",
+        "Architect Certificate",
+        "Loan Transfer related",
+        "Approvals status",
+        "Provisional NOC",
+        "Demand Note cum invoice",
+        "Loan Related Documents"
+    ],
+    "Agreement Related": [
+        "Standard Agreement for Sale",
+        "Collection of Registered Agreement for Sale",
+        "Agreement Clauses"
+    ],
+    "Slope Related Issue": [
+        "Slope in Balcony",
+        "Slope in Kitchen",
+        "Slope in Washroom"
+    ],
+    "Post Possession": [
+        "Resale",
+        "JLL/CBRE Related",
+        "CAM Charges",
+        "Snags Related",
+        "MGL/Electricity/Water"
+    ],
+    "Shifting": [
+        "Shifting Procedure",
+        "Shifting Request"
+    ],
+    "Transfer Related": [
+        "Final Confirmation",
+        "Confirmation of Transfer",
+        "Transfer Bank NOC",
+        "Transfer NOC",
+        "Application cum Consent",
+        "Transfer Documents Related",
+        "Administrative Fee",
+        "Transfer Process",
+        "Provisional Transfer NOC"
+    ],
+    "Cancellation": [
+        "Delay in Refund",
+        "Deed of Cancellation",
+        "Process of Deed of Cancellation",
+        "Voluntary Cancellation",
+        "Refund",
+        "Cancellation Charges",
+        "Customer Retained"
+    ],
+    "Customer Onboarding": [
+        "Welcome Interactions",
+        "e-Service/Community Portal Related"
+    ],
+    "Water Supply Related Issue": [
+        "No Water Supply in Kitchen",
+        "No Water Supply in Apartment",
+        "No Water Supply in Washroom"
+    ],
+    "Cracks Related Issue": [
+        "Crack in flooring",
+        "Crack mark on the door",
+        "Crack in plaster",
+        "Crack in tiles/stone"
+    ],
+    "Dampness Related Issue": [
+        "Dampness in kitchen ceiling",
+        "Dampness in living room wall",
+        "Dampness in MBR wall",
+        "Dampness in wall apart from the above",
+        "Dampness in Apartment"
+    ],
+    "Paint Related Issue": [
+        "Paint Decaying",
+        "Paint Peeling Off",
+        "Paint Stains",
+        "Painting Required"
+    ],
+    "Seepage Related Issue": [
+        "Seepage through electrical board",
+        "Seepage in Washroom Wall",
+        "Seepage in MBR Wall",
+        "Seepage in Kitchen Wall",
+        "Seepage from Ceiling"
+    ],
+    "Light Related Issue": [
+        "Light Not Working",
+        "Light Missing",
+        "Tripping of Lights"
+    ],
+    "MCB Related Issue": [
+        "MCB Replacement",
+        "MCB Tripping"
+    ],
+    "Power Supply Related Issue": [
+        "Transfer NOC",
+        "High Voltages",
+        "No Power Supply in Apartment",
+        "No Power Supply in Kitchen",
+        "No Power Supply in MBR",
+        "No Power Supply in Switch",
+        "No Power Supply in Washing Machine",
+        "No Power Supply in Washroom",
+        "No Power Supply in Water Purifier",
+        "Phase not working",
+        "Power Tripping"
+    ],
+    "Switch/Switch Board Related Issue": [
+        "Switch Not Working",
+        "Socket to be Fixed",
+        "Switch board to be fixed",
+        "Switch Plate Missing"
+    ],
+    "Door Bell Related Issue": [
+        "Door Bell Not Working",
+        "Door Bell to be Installed"
+    ],
+    "Door Lock Related Issue": [
+        "Door Lock Not Working",
+        "Door Lock Loose"
+    ],
+    "Door Related": [
+        "Door Alignment/Door Not Closing",
+        "Door Handle Not Proper",
+        "Door Not Closing",
+        "Shutter Scratches",
+        "Sealant Issue",
+        "Door Frame Bulging Issue",
+        "Door Alignment"
+    ],
+    "Garbage Related": [
+        "Garbage Bags Related",
+        "Garbage Collection Related"
+    ],
+    "Cleaning Related": [
+        "Lobby Cleanliness",
+        "Building Cleanliness"
+    ],
+    "Safety Equipment Related Issue": [
+        "Fire Alarm Not Working",
+        "Smoke Detector Not Working"
+    ],
+    "AC Related Issue": [
+        "No Cooling",
+        "Noise from AC",
+        "AC Not Working",
+        "Remote Not Working",
+        "AC Servicing"
+    ],
+    "Cable Related Issue": [
+        "Data Cable Missing",
+        "Data Cable to be checked",
+        "Faulty Cable",
+        "Wiring Related"
+    ],
+    "Intercom/VDP Related Issue": [
+        "Intercom not working",
+        "Intercom to be installed",
+        "VDP to be installed",
+        "VDP Not Working"
+    ],
+    "Internet Related Issue": [
+        "Internet Not Working",
+        "Slow Speed"
+    ],
+    "Fan Related Issue": [
+        "Fan Not Working",
+        "Regulator Not Working",
+        "Regulator Knob broken",
+        "Exhaust Fan Not Working",
+        "Exhaust Fan to be Installed"
+    ],
+    "Geyser Related Issue": [
+        "Angel Cock Related",
+        "Connection Related",
+        "No Hot Water",
+        "Geyser Not Working",
+        "No Power Supply",
+        "Plug Top Missing",
+        "Switch Not Working"
+    ],
+    "Drainage Choked Issue": [
+        "Bottle Trap",
+        "Kitchen",
+        "Dry Balcony",
+        "Terrace",
+        "Washroom",
+        "Drain Line",
+        "Nani Trap Blocked"
+    ],
+    "Fittings & Fixtures Related Issue": [
+        "Dry Area Pipe Broken",
+        "Glass Partition Not Installed in Washroom",
+        "Glass Partition Not Proper",
+        "Pipe to be Fixed",
+        "Mirror to be replaced",
+        "Shower Not Working",
+        "Tap Replacement"
+    ],
+    "Flush Related Issue": [
+        "Flush Part Missing",
+        "Muddy Water in Flush",
+        "WC Cover Hinges Damage",
+        "Flush Not Working",
+        "WC Seat Cover Related"
+    ],
+    "Foul Odour Issue": [
+        "Foul Odour in Washroom",
+        "Foul Odour in Kitchen",
+        "Foul Odour from Drain Line",
+        "Foul Odour from Dry Area"
+    ],
+    "Jet Spray Related Issue": [
+        "Jet spray connector to be fixed",
+        "Jet spray loose",
+        "Jet spray Holder to be fixed",
+        "Jet spray not working",
+        "Jet spray to be Repaired/Replaced"
+    ],
+    "Leakage Related Issue": [
+        "Drain/Waste Line Leakage",
+        "Leakage from Jet spray",
+        "Leakage from Kitchen Sink",
+        "Leakage from Flush",
+        "Leakage from Tap/Shower",
+        "Leakage from Water Purifier",
+        "Bottle Trap Leakage",
+        "Leakage from AC",
+        "Leakage from Geyser"
+    ],
+    "Water Pressure Related Issue": [
+        "Low water pressure",
+        "Water pressure to be checked"
+    ],
+    "Water Purifier Related Issue": [
+        "Purifier Not Installed",
+        "Connected Pipe to be Fixed"
+    ],
+    "Junk": [
+        "Junk Case"
+    ],
+    "Legal": [
+        "Litigations",
+        "RERA Case"
+    ],
+    "Allotment Related": [],
+    "Tiles Related": [
+        "Chip Off in Tiles",
+        "Hollowness in Tiles",
+        "Grouting issue"
+    ],
+    "Elevator Related": [
+        "Elevator Indicator Not Working",
+        "Elevator Light Not Working",
+        "Elevator Not Working"
+    ],
+    "Pest Control": [
+        "Fogging Related",
+        "Rodent Control Related",
+        "Termite related issue",
+        "Larva Treatment"
+    ],
+    "Security": [
+        "Parking Related",
+        "Issuance of Gate Pass",
+        "Material Movement Related",
+        "Vehicle Permit Related",
+        "Visitor Assistance Related",
+        "Courier Related",
+        "Lost & Found Related"
+    ],
+    "UPVC Windows/Doors": [
+        "Glass Related Issue"
+    ],
+    "Sliding Door Related": [
+        "Lock Issue",
+        "Alignment Issue",
+        "Beading Issue"
+    ],
+    "Window Related": [
+        "Lock Issue",
+        "Alignment Issue",
+        "Beading Issue"
+    ],
+    "Wooden Flooring": [
+        "Pop Up",
+        "Skirting Issue",
+        "Threshold T-Strip Issue"
+    ],
+    "Possession Slot Email": [
+        "New",
+        "Cancel",
+        "Reschedule"
+    ],
+    "Pre-Possession Slot Email": [
+        "New",
+        "Cancel",
+        "Reschedule"
+    ],
+    "Horticulture/Landscaping": [
+        "Plant upkeep",
+        "Plant Dried up"
+    ],
+    "Accounts - Maintenance Payment": [
+        "CAM Charges"
+    ],
+    "BESCOM - Bill Payment": [
+        "Electricity Payment"
+    ],
+    "BESCOM NOC": [
+        "NOC",
+        "BESCOM - NOC"
+    ],
+    "BESCOM Reimbursement": [
+        "BESCOM - Reimbursement",
+        "Reimbursement"
+    ],
+    "Owner Moving In": [
+        "Shifting formalities"
+    ],
+    "House Warming": [
+        "Residents information"
+    ],
+    "Gail Gas": [
+        "connection Status"
+    ],
+    "Pre-Possession Inspection (not available)": [],
+    "TDS": [
+        "TDS Payment Process",
+        "TDS Payments"
+    ],
+    "Collection Call": [
+        "PTP Date"
+    ],
+    "Aluminium Doors and Windows": [
+        "Aluminium hardware.",
+        "Section dented/damaged.",
+        "sections loose/gap",
+        "Glass",
+        "Endcap/Guard.",
+        "Gasket/Woolpile",
+        "Drain hole."
+    ],
+    "Aluminium Windows": [
+        "Drain holes",
+        "Dents",
+        "Glasses",
+        "Silicon filling",
+        "Gasket not fixed properly",
+        "Scratch marks on glass",
+        "Locks"
+    ],
+    "Amenity Floor": [
+        "Tile Cladding",
+        "Water Logging",
+        "Appliances",
+        "Cook top",
+        "Exhaust",
+        "Geyser",
+        "Chimney",
+        "AC",
+        "VDP",
+        "Home automation",
+        "Motion Sensor",
+        "Heat Detector",
+        "Sprinklers",
+        "Water filter",
+        "Mirror fixing not done",
+        "Air conditioner.",
+        "Home automation.",
+        "Motion sensor.",
+        "Exhaust fan.",
+        "Water purifier.",
+        "Water heater.",
+        "Chimney.",
+        "Cooktop/Hobb",
+        "Cooktop/Hobb.",
+        "Heat detector.",
+        "Video door phone."
+    ],
+    "Cable Related": [
+        "Data Cable Missing",
+        "Data Cable to be checked",
+        "Faulty Cable",
+        "Wiring Related",
+        "Cable Missing"
+    ],
+    "Carpentry": [
+        "Wooden flooring",
+        "Locks",
+        "Hardware",
+        "Door laminates",
+        "Door frames",
+        "Door shutters",
+        "Shower cubicle",
+        "Mirror",
+        "Modular kitchen",
+        "Door Frame Cracked/Damaged",
+        "Door laminate scratch marks",
+        "Acrylic sheet cracked",
+        "Main door top patti loose",
+        "Wooden flooring puff & profile loose",
+        "Door frame polish and finishing",
+        "Door laminate chipped/damage",
+        "Sliding window lock issue",
+        "Dustbin",
+        "Door laminate puff",
+        "Door shutter",
+        "Shutters",
+        "Trap door",
+        "Modular kitchen",
+        "Frames",
+        "Wooden flooring"
+    ],
+    "CCTV Related": [
+        "CCTV Maintenance",
+        "CCTV Troubleshooting"
+    ],
+    "Civil": [
+        "Walls",
+        "Ceiling",
+        "Granite frames",
+        "Kitchen platform",
+        "Marble Flooring Cracked",
+        "Marble shade variation",
+        "Floor Tile cracked",
+        "Marble flooring not fixed in same pattern",
+        "Marble flooring Chipped",
+        "Skirting",
+        "Bathroom Dado Tile",
+        "Marble flooring quality not good /stain marks",
+        "Floor tile chipped",
+        "Window sill",
+        "Dado shade variation",
+        "Window outside finishing not done",
+        "Granite frame cracked",
+        "Marble skirting cut uneven",
+        "Ceiling big patch marks",
+        "Floor tile uneven"
+    ],
+    "Civil & Fabrication": [
+        "Bludges & patches on walls",
+        "Marble shade variation.",
+        "Marble Laying pattern.",
+        "Marble floor cracked/chipped.",
+        "Tile offset/chipped/cracked.",
+        "Floor stain marks.",
+        "Frames.",
+        "Tile shade variation.",
+        "Skirting shade variation.",
+        "Bulge/Undulation/Dent.",
+        "Sill",
+        "Slope.",
+        "False ceiling",
+        "Ms platform & other structures",
+        "Outside finishing/Chajja",
+        "MS platform & other structures.",
+        "Skirting thickness uneven."
+    ],
+    "Glass Partition": [
+        "Alignment issue/loose",
+        "Scratch Marks"
+    ],
+    "Mahanagar Gasy": [
+        "MGL pipe line"
+    ],
+    "Parking Floor": [
+        "Storm water Chamber overflow",
+        "Water Logging",
+        "Flooring Tiles breakage",
+        "Water Leakage from expansion joint",
+        "STP flooding"
+    ],
+    "Plumbing": [
+        "CP fixtures.",
+        "Sanitary ware.",
+        "Sprinkler system.",
+        "Water pressure.",
+        "Flush tank.",
+        "Leakage.",
+        "Shafts."
+    ],
+    "Skystreet": [
+        "Leakage in Lift shafts",
+        "Leakage in apartments"
+    ],
+    "Terrace": [
+        "Lattern Light"
+    ],
+    "Water Tank": [
+        "Leakage."
+    ],
+    "Appreciation Email": [
+        "Appreciation Email from Customer"
+    ],
+    "NOC": [
+        "Bank loan NOC"
+    ],
+    "Loyalty and Referral": [
+        "Bank loan NOC",
+        "Outbound-Loyalty",
+        "Outbound-Referral",
+        "Inbound-Loyalty",
+        "Inbound-Referral",
+        "DND/ Loyalty & Referral",
+        "Mobile APP-loyalty",
+        "Mobile App-Referral"
+    ],
+    "CRM Campaign": [
+        "Bulk Mailer"
+    ]
+}

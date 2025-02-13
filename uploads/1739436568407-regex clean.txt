@@ -1,0 +1,6 @@
+Regex clean
+const JSONRESUMESTARTREGEX = /^```json/
+const JSONRESUMENDREGEX = /```$/
+
+aiResponse.replace(constant.JSONRESUMESTARTREGEX, '').replace(constant.JSONRESUMENDREGEX, '').trim()
+
